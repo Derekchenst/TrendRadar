@@ -1,6 +1,20 @@
+[GLOBAL_FILTER]
+广告
+推广
+营销
+震惊
+标题党
+
+[WORD_GROUPS]
+财经
+A股
+上证
+深证
++涨跌
+
 胖东来
 于东来
-A股
+
 DeepSeek
 梁文锋
 
@@ -14,10 +28,10 @@ HarmonyOS
 
 大疆
 DJI
-适老化
+
 宇树
 王兴兴
-养老
+
 智元
 灵犀
 稚晖君
@@ -44,7 +58,7 @@ DJI
 
 京东
 刘强东
-月之暗面
+
 字节
 bytedance
 张一鸣
@@ -58,7 +72,7 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-kimi
+
 AMD
 
 谷歌
@@ -72,7 +86,7 @@ sora
 
 claude
 Anthropic
-数字人
+
 iphone
 ipad
 mac
@@ -111,3 +125,9 @@ ai
 宇宙
 飞船
 航空
+
+kimi
+月之暗面
+
+适老化
+养老
